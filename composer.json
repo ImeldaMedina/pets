@@ -1,0 +1,17 @@
+{
+  "name": "imedinag@srv601/328/pets",
+  "authors": [
+    {
+      "name":"Imelda Medina",
+      "email": "imedina-castaneda@mail.greenriver.edu"
+    },
+    {
+      "name":"Bridget Black",
+      "email": "bblack4@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+
+  }
+}
